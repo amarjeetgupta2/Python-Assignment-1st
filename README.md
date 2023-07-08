@@ -1,1 +1,1 @@
-# Python-Assignment-1st-Soluation
+# Python-Assignment-1st
